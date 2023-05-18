@@ -96,3 +96,5 @@ productos = {
 #ejemplo de cliente 
 cliente1 = Cliente("Juan", "Perez", "99999999", "1100000000")
 cliente1.comprar()
+
+# asd
